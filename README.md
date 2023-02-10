@@ -3,9 +3,7 @@
 List of awesome CSS frameworks.
 Feel free to [contribute](https://github.com/troxler/awesome-css-frameworks/blob/master/.github/CONTRIBUTING.md).
 
-Supported by [FrontAid CMS](https://frontaid.io/?pk_campaign=cssfw):
-
-<a href="https://frontaid.io/?pk_campaign=cssfw">
+Supported by <a href="https://frontaid.io/?pk_campaign=cssfw">
 <img src="media/frontaid.png"
   width="600"
   alt="FrontAid CMS - Agile Content Management with Git."></a>
