@@ -1,7 +1,5 @@
 # Awesome CSS Frameworks [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-List of awesome CSS frameworks.
-
 ## Contents
 - [Base / Reset / Normalize](#base--reset--normalize)
 - [Class-less](#class-less)
